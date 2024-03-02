@@ -1,7 +1,8 @@
 ### Connections
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/428791705924403200)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandrmq@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.linkedin.com/in/anandrajam/)
+[![LinkedIn]([https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&color=blue
+))](https://www.linkedin.com/in/anandrajam/)
 
 ### Learning
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=2a567c&logo=python&logoColor=white)]
